@@ -1,5 +1,26 @@
 {
-    "data":[
-        
+    "cars": [
+        {
+            "id": 1,
+            "brand": "Tata",
+            "year": 2019,
+            "type": "Manual",
+            "kms": 10000,
+            "image":"https://img.freepik.com/free-vector/modern-blue-urban-adventure-suv-vehicle-illustration_1344-205.jpg?w=2000",
+            "Description": "Tata Altroz with all original documents",
+            "Price": 500000
+        }
+    ],
+    "wishlisted_cars": [
+        {
+            "id": 1,
+            "brand": "Tata",
+            "year": 2019,
+            "type": "Manual",
+            "kms": 10000,
+            "image":"https://img.freepik.com/free-vector/modern-blue-urban-adventure-suv-vehicle-illustration_1344-205.jpg?w=2000",
+            "Description": "Tata Altroz with all original documents",
+            "Price": 500000
+        }
     ]
 }
